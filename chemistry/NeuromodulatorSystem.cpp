@@ -1,0 +1,6 @@
+enum NeuromodulatorType {
+	DOPAMINE,
+	SEROTONIN,
+	ACETYLCHOLINE,
+	NOREPINEPHRINE
+};
